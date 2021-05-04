@@ -1,2 +1,0 @@
-MERN application
-created MongoDB cluster
