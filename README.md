@@ -2,7 +2,7 @@
 
 ### Project Description
 
-This project is developed for storing photos on online gallery using cloud storage. One can add photos using this given website link from anywhere and any time.
+This project is developed for storing photos on online gallery using cloud storage. One can store photos using this given website link from anywhere and any time.
 Please visit the hosted website: [Photo Gallery](https://quirky-noyce-0fab2e.netlify.app/)
 
 ### Developement and Deployment:
