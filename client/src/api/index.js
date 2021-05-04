@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'https://photo-gall.herokuapp.com/';
+const url = 'https://photo-kbz.herokuapp.com/';
 
 export const fetchTodos = () => axios.get(url);
 
